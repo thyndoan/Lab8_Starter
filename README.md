@@ -3,6 +3,7 @@
 Name: Thy Doan
 
 URL: [lab_8_link](https://thyndoan.github.io/Lab8_Starter/)
+
 [pwa screenshot](/pwa.png)
 
 **Q**: How are graceful degradation and service workers related?
